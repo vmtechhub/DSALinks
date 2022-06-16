@@ -21,6 +21,8 @@ All the credit goes to the original authors and presenters.
 
 [Graph Theory Algorithms (freeCodeCamp)](https://www.youtube.com/watch?v=09_LlHjoEiY&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=8)
 
+[Blind-75-leetcode-questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+
 ## System Design
 
 [System Design](https://www.youtube.com/watch?v=MbjObHmDbZo)
@@ -33,6 +35,7 @@ All the credit goes to the original authors and presenters.
 
 [System Design Template](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
 
-##Misc
+## Misc
+
 [Self-taught education in CS](https://github.com/ossu/computer-science)
 
