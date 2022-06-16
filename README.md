@@ -7,6 +7,7 @@ All the credit goes to the original authors and presenters.
 
 
 ## Data Structures & Algorithms
+[Algorithms in Java](https://github.com/TheAlgorithms/Java)
 
 [Dynamic Programming (freeCodeCamp)](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 
@@ -31,4 +32,7 @@ All the credit goes to the original authors and presenters.
 [System Deisgn Primer](https://github.com/donnemartin/system-design-primer)
 
 [System Design Template](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
+
+##Misc
+[Self-taught education in CS](https://github.com/ossu/computer-science)
 
