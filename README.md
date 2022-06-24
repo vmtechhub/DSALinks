@@ -34,6 +34,7 @@ All the credit goes to the original authors and presenters.
 [System Deisgn Primer](https://github.com/donnemartin/system-design-primer)
 
 [System Design Template](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
+[Amazon Library](aws.amazon.com/builders-library)
 
 ## Misc
 
